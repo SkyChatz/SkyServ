@@ -1,1 +1,1 @@
-ChanServ
+GameServ
